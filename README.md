@@ -1,16 +1,15 @@
-## Hi there 👋
+# Repositories Moved
 
-<!--
-**MatMasIt/matmasit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've moved almost all of my projects and content to a new location.
 
-Here are some ideas to get you started:
+I am now hosting my repositories on a Gitea instance at [gitea.mattiaturin.duckdns.org](https://gitea.mattiaturin.duckdns.org). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gitea offers a more customizable and self-hosted environment that aligns better with my current needs and goals.
+
+### What's still here?
+Some repositories might still be available on GitHub for collaboration, archival, or mirroring purposes, but active development has shifted to the Gitea instance.
+
+
+
+---
+Feel free to reach out if you have any questions about this transition.
