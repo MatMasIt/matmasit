@@ -2,7 +2,7 @@
 
 I've moved almost all of my projects and content to a new location.
 
-I am now hosting my repositories on a Gitea instance at [gitea.mattiamascarello.it](https://gitea.mattiamascarello.it). 
+I am now hosting my repositories on a Gitea instance at [gitea.mattiamascarello.it](https://gitea.mattiamascarello.it/mattia). 
 
 Gitea offers a more customizable and self-hosted environment that aligns better with my current needs and goals.
 
